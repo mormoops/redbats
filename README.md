@@ -7,6 +7,6 @@ Author: Angelo Soto-Centeno, PhD. Rutgers University
 
 Date: 18 January 2021
 
-Data: 7 linear phenotypic characters from the skull and dentary
+Data: 7 linear phenotypic characters
 
 Reference: Soto-Centeno, J.A., Hays, I.R., and Calderón-Acevedo, C.A. (in review) Validation of species limits in Caribbean minor red bats (Lasiurus minor)
