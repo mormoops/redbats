@@ -1,12 +1,5 @@
 # redbats
-Unsupervised Machine Learning: LDA classification models
 
-ML model testing for Red Bats phenotypic limits
+Reference: Soto-Centeno J.A., Bernstein J.M., and Calderón-Acevedo C.A. (in review) Phylogenomics and morphology resolve relationships of Caribbean red bats and indicate island to mainland reverse colonization.
 
-Author: Angelo Soto-Centeno
-
-Date: 14 March 2023
-
-Data: 7 linear phenotypic characters
-
-Reference: Soto-Centeno, J.M. Bernstein, I.R., and Calderón-Acevedo, C.A. (in review) Validation of species limits in Caribbean minor red bats (Lasiurus minor)
+Molecular and morphological data, scripts, and supplemental information to evaluate species limits and biogeography of red bats.
