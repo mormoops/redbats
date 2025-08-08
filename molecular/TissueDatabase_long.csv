@@ -1,0 +1,22 @@
+﻿taxon,sample,catalogueID,sex,devStage,tissue,geoLocality,lon,lat,collectionDate,seqrunID,i7barcode,i5barcode,totalReads,SRAbioproject,bioSample,source
+Lasiurus borealis,Labo_5,FLMNH 31167,female,adult,muscle,"USA: Florida, Duval, Jacksonville",-81.47954275,30.37000481,2005-06-22,9182-JK-3_091,CTTATGAA,TTAGACGT,2339535,PRJNA1303704,SAMN50532125,this study
+Lasiurus borealis,Labo_6,FLMNH 33485,male,missing,muscle,"USA: Florida, Escambia, Pensacola",-87.25553651,30.42892628,2015-07-09,9182-JK-3_092,TAGCGTTG,GACGGTCC,2731705,PRJNA1303705,SAMN50532126,this study
+Lasiurus borealis,Labo_2,FLMNH 33830,female,missing,muscle,"USA: Florida, Escambia",-87.340784,30.568998,2016-06-24,9182-JK-3_037,CGTGAGAG,TAGGTGCT,3080421,PRJNA1303706,SAMN50532127,this study
+Lasiurus borealis,Labo_1,FLMNH 33833,female,missing,muscle,"USA: Florida, Escambia, Pensacola",-87.25553651,30.42892628,2016-06-24,9182-JK-3_036,GAAGTCTT,GCACAGAC,4800896,PRJNA1303707,SAMN50532128,this study
+Lasiurus borealis,Labo_4,FLMNH 33835,female,missing,muscle,"USA: Florida, Escambia, Milton",-87.340784,30.568998,2016-06-24,9182-JK-3_090,GATGAATC,TGGAACAA,7322001,PRJNA1303708,SAMN50532129,this study
+Lasiurus borealis,Labo_3,FLMNH 34493,female,missing,muscle,"USA: Florida, Santa Rosa",-87.00314755,30.74471586,2018-07-02,9182-JK-3_080,GGATCTCT,ATACATAA,5982790,PRJNA1303709,SAMN50532130,this study
+Lasiurus minor,Lami_5,FMNH 204427 ,female,not collected,muscle,"Puerto Rico: Vieques Island, Green Beach Gate",-65.55147,18.28344,2008-07-14,9182-JK-3_042,TGAATGCG,TCTGCTGT,4189846,PRJNA1303710,SAMN50532131,this study
+Lasiurus minor,Lami_3,ROM 125306 ,male,adult,muscle,"Dominican Republic: Pedernales,1 km SE of Aguas Negras",-71.69053,18.16282,2015-01-23,9182-JK-3_040,CAGCGTTA,CCTCAGCA,4895735,PRJNA1303711,SAMN50532132,this study
+Lasiurus minor,Lami_4,ROM 125307 ,male,adult,muscle,"Dominican Republic: Pedernales, 1 km SE of Aguas Negras, 883 m",-71.69053,18.16282,2015-01-23,9182-JK-3_041,TGAGATCG,CGGTGGTA,3095400,PRJNA1303712,SAMN50532133,this study
+Lasiurus minor,Lami_2,ROM 125308,male,adult,muscle,"Dominican Republic: Pedernales, 1 km SE of Aguas Negras, 884 m",-71.69053,18.16282,2015-01-23,9182-JK-3_039,CGTCCGTG,GGTGCGAA,3452526,PRJNA1303713,SAMN50532134,this study
+Lasiurus minor,Lami_6,ROM 125341,male,adult,muscle,"Dominican Republic: La Vega, Parque Nacional Armando Bermudez",-70.86323,19.06727,2015-01-27,9182-JK-3_088,AAGTAAGT,CTGTAGCC,5509576,PRJNA1303714,SAMN50532135,this study
+Lasiurus pfeifferi,Lapf_1,AMNH 280242,not provided,adult,muscle,"Cuba: Guantanamo, Parque Nacional Humboldt, Cupeyal del Norte",-75.00019316,20.44806987,2015-10-19,9182-JK-3_043,TGAACTGG,CTGTACTT,4350199,PRJNA1303715,SAMN50532136,this study
+Lasiurus seminolus,Lase_3,FLMNH 31326,female,adult,muscle,"USA: Florida, Alachua",-82.3563,29.6441,2007-01-01,9182-JK-3_094,CAGTGTGG,AGCGCGCA,3226192,PRJNA1303716,SAMN50532137,this study
+Lasiurus seminolus,Lase_7,FLMNH 34154,male,missing,muscle,"USA: Florida, Alachua",-82.3276,29.619,2017-02-28,9182-JK-3_087,AAGAGAGC,AAGAGATC,10508803,PRJNA1303717,SAMN50532138,this study
+Lasiurus seminolus,Lase_2,FLMNH 33486,female,missing,muscle,"USA: Florida, Escambia",-87.29805,30.5256,2014-10-31,9182-JK-3_083,GACAGTGC,CGATTACC,7736355,PRJNA1303718,SAMN50532139,this study
+Lasiurus seminolus,Lase_6,FLMNH 33792,male,missing,muscle,"USA: Florida, Alachua",-82.139328,29.71654,2017-01-12,9182-JK-3_086,AAGATACC,TCTCCGGA,5572131,PRJNA1303719,SAMN50532140,this study
+Lasiurus seminolus,Lase_1,FLMNH 33804,male,missing,muscle,"USA: Florida, Santa Rosa",-87.00314755,30.74471586,2017-01-23,9182-JK-3_093,TCGTTAGC,GGCTCTGA,1787886,PRJNA1303720,SAMN50532141,this study
+Lasiurus seminolus,Lase_4,FLMNH 33806,female,missing,muscle,"USA: Florida, Escambia",-87.340784,30.568998,2016-07-16,9182-JK-3_084,CAGGTTCC,GGTGGCAC,6597317,PRJNA1303721,SAMN50532142,this study
+Lasiurus seminolus,Lase_5,FLMNH 34158,male,adult,muscle,"USA: Florida, Alachua",-82.3439,29.6446,2018-02-12,9182-JK-3_085,GAATATCC,GTGAGCCA,3372089,PRJNA1303722,SAMN50532143,this study
+Lasiurus seminolus,Lasp_2,FLMNH 32682,female,missing,muscle,Bahamas: Great Abaco,-77.11013992,26.44221403,2011-04-19,9182-JK-3_096,ACTTGTAC,GTGTCCTT,3472222,PRJNA1303723,SAMN50532144,this study
+Lasiurus seminolus,Lasp_1,FLMNH 32683,male,missing,muscle,Bahamas: Great Abaco,-77.11013992,26.44221403,2009-11-11,9182-JK-3_095,TCAATATT,AGTACAAG,5359256,PRJNA1303724,SAMN50532145,this study
