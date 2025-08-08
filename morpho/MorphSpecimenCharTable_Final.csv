@@ -1,0 +1,237 @@
+﻿Collection,Number,Species,Sex,Country,Locality,LDA,Lacrimal  ,Posterior View,Dorsal View,PM4
+AMNH,70282,Lasiurus borealis,M,USA,Connecticut,1,,,,
+AMNH,93346,Lasiurus borealis,M,USA,Connecticut,1,1,1,1,1
+AMNH,100253,Lasiurus borealis,M,USA,Connecticut,1,,,,
+AMNH,134987,Lasiurus borealis,M,USA,Connecticut,1,,,,
+AMNH,13952,Lasiurus borealis,F,USA,Florida,1,,,,
+AMNH,125669,Lasiurus borealis,F,USA,Georgia,1,,,,
+AMNH,148915,Lasiurus borealis,F,USA,Maine,1,1,1,1,1
+AMNH,148942,Lasiurus borealis,F,USA,Maine,1,,,,
+AMNH,175426,Lasiurus borealis,M,USA,Nebraska,1,,,,
+AMNH,175499,Lasiurus borealis,F,USA,Nebraska,1,1,1,1,1
+AMNH,42716,Lasiurus borealis,M,USA,New Jersey,1,1,1,1,1
+AMNH,185295,Lasiurus borealis,F,USA,New Jersey,1,1,1,1,1
+AMNH,2363,Lasiurus borealis,F,USA,New York,1,,,,
+AMNH,3866,Lasiurus borealis,M,USA,New York,1,1,1,,1
+AMNH,41201,Lasiurus borealis,F,USA,New York,1,,,,
+AMNH,73628,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,98144,Lasiurus borealis,F,USA,New York,1,1,1,1,1
+AMNH,139896,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,141104,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,164722,Lasiurus borealis,F,USA,New York,1,,,,
+AMNH,164724,Lasiurus borealis,M,USA,New York,1,1,1,1,1
+AMNH,164725,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,164726,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,164727,Lasiurus borealis,F,USA,New York,1,,,,
+AMNH,164728,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,182653,Lasiurus borealis,M,USA,New York,1,,,,
+AMNH,182654,Lasiurus borealis,F,USA,New York,1,1,1,1,1
+AMNH,187035,Lasiurus borealis,F,USA,New York,1,,,,
+AMNH,212472,Lasiurus borealis,F,USA,New York,1,,,,
+AMNH,996,Lasiurus borealis,F,USA,North Carolina,1,,,,
+AMNH,998,Lasiurus borealis,M,USA,North Carolina,1,,,,
+AMNH,999,Lasiurus borealis,F,USA,North Carolina,1,1,1,1,1
+AMNH,1000,Lasiurus borealis,F,USA,North Carolina,1,,,,
+AMNH,1001,Lasiurus borealis,M,USA,North Carolina,1,1,1,,1
+AMNH,8273,Lasiurus borealis,F,USA,North Carolina,1,1,1,1,1
+AMNH,8274,Lasiurus borealis,F,USA,North Carolina,1,,,,1
+AMNH,8275,Lasiurus borealis,F,USA,North Carolina,1,,,,
+AMNH,8278,Lasiurus borealis,F,USA,North Carolina,1,,,,
+AMNH,8282,Lasiurus borealis,M,USA,North Carolina,1,,,,
+AMNH,31175,Lasiurus borealis,F,USA,North Carolina,1,,,,
+AMNH,114636,Lasiurus borealis,F,USA,North Carolina,1,,,,
+AMNH,129183,Lasiurus borealis,M,USA,North Dakota,1,1,1,,1
+AMNH,129185,Lasiurus borealis,M,USA,North Dakota,1,,,,
+AMNH,129186,Lasiurus borealis,M,USA,North Dakota,1,,,,1
+AMNH,129187,Lasiurus borealis,M,USA,North Dakota,1,,,,1
+AMNH,129188,Lasiurus borealis,M,USA,North Dakota,1,,,,1
+AMNH,129189,Lasiurus borealis,M,USA,North Dakota,1,,,,1
+AMNH,129190,Lasiurus borealis,F,USA,North Dakota,1,,,,1
+AMNH,129191,Lasiurus borealis,M,USA,North Dakota,1,,,,
+AMNH,129192,Lasiurus borealis,F,USA,North Dakota,1,1,1,1,1
+AMNH,129193,Lasiurus borealis,F,USA,North Dakota,1,1,1,1,1
+AMNH,129194,Lasiurus borealis,M,USA,North Dakota,1,,,,
+AMNH,129201,Lasiurus borealis,F,USA,North Dakota,1,,,,
+AMNH,129202,Lasiurus borealis,F,USA,North Dakota,1,,,,
+AMNH,129203,Lasiurus borealis,F,USA,North Dakota,1,,,,
+AMNH,129204,Lasiurus borealis,F,USA,North Dakota,1,,,,
+AMNH,129205,Lasiurus borealis,F,USA,North Dakota,1,,,,
+AMNH,129206,Lasiurus borealis,F,USA,North Dakota,1,,,,
+AMNH,129207,Lasiurus borealis,F,USA,North Dakota,1,1,1,1,1
+AMNH,129208,Lasiurus borealis,F,USA,North Dakota,1,1,1,1,1
+AMNH,232169,Lasiurus borealis,F,USA,Ohio,1,1,1,,1
+AMNH,258272,Lasiurus borealis,M,USA,Pennsylvania,1,,,,
+AMNH,258275,Lasiurus borealis,M,USA,Pennsylvania,1,,,,
+AMNH,258276,Lasiurus borealis,M,USA,Pennsylvania,1,1,1,1,1
+AMNH,258277,Lasiurus borealis,F,USA,Pennsylvania,1,,,,
+AMNH,258278,Lasiurus borealis,M,USA,Pennsylvania,1,,,,
+AMNH,258279,Lasiurus borealis,F,USA,Pennsylvania,1,,,,
+AMNH,258280,Lasiurus borealis,F,USA,Pennsylvania,1,1,1,1,1
+AMNH,258281,Lasiurus borealis,F,USA,Pennsylvania,1,1,1,1,1
+AMNH,258282,Lasiurus borealis,F,USA,Pennsylvania,1,1,1,1,1
+AMNH,3217,Lasiurus borealis,M,USA,Texas,1,1,1,,1
+AMNH,4803,Lasiurus borealis,M,USA,Texas,1,1,1,1,1
+AMNH,5830,Lasiurus borealis,F,USA,Texas,1,,,,
+AMNH,5832,Lasiurus borealis,M,USA,Texas,1,1,1,1,1
+AMNH,8784,Lasiurus borealis,F,USA,Texas,1,1,1,1,
+AMNH,31405,Lasiurus borealis,M,USA,Texas,1,,,,
+AMNH,243891,Lasiurus borealis,M,USA,Texas,1,,,,
+AMNH,93175,Lasiurus borealis,M,USA,Virginia,1,1,1,1,1
+UF,281501,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,1,
+UF,281502,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,
+UF,281503,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,
+UF,281504,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,
+UF,281507,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,1
+UF,281508,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,281513,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,281515,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,281526,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,1
+UF,281532,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281534,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,1,
+UF,281538,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281684,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,
+UF,281767,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,
+UF,281789,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,281795,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,1,1
+UF,281803,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,1
+UF,281809,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,1
+UF,281830,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281834,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,1,
+UF,281835,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281835,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281836,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281850,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281852,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,1,
+UF,281853,Lasiurus minor,NA,Haiti,Trou Jean Paul,,,,,1
+UF,281857,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,1,
+UF,281858,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,281869,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,
+UF,281892,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,1,1
+UF,281923,Lasiurus minor,NA,Haiti,Trou Jean Paul,,,,,1
+UF,281961,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,282189,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,1
+UF,282205,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,282214,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,282217,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,1
+UF,282220,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,
+UF,282224,Lasiurus minor,na,Haiti,Trou Jean Paul,,1,,,
+UF,282309,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,282330,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,1
+UF,282341,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,282412,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,1
+UF,282494,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,1
+UF,282600,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,
+UF,282619,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,282785,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,1
+UF,282829,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,282832,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,282838,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,1,1
+UF,282842,Lasiurus minor,na,Haiti,Trou Jean Paul,,,1,,
+UF,282846,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,282860,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,282863,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,1
+UF,282865,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,
+UF,282875,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,282945,Lasiurus minor,na,Haiti,Trou Jean Paul,,,,,1
+UF,307336,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,307341,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,307434,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+UF,307548,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,307580,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,307581,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,307602,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,
+UF,307696,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,,
+UF,307697,Lasiurus minor,NA,Haiti,Trou Jean Paul,,,,,1
+UF,307793,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,1,
+UF,307794,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,1
+UF,307796,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,307797,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,1
+UF,307798,Lasiurus minor,NA,Haiti,Trou Jean Paul,,,,,1
+UF,307802,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,1,
+UF,307803,Lasiurus minor,NA,Haiti,Trou Jean Paul,,,,,1
+UF,307806,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,307808,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,307882,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,307883,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,1
+UF,307884,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,1
+UF,308034,Lasiurus minor,NA,Haiti,Trou Jean Paul,,,,,1
+UF,308048,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,1,1
+UF,308271,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,1,1,
+UF,308272,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,,
+UF,308281,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,308282,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,308485,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,,1
+UF,308486,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,,
+UF,308490,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,,,1,
+UF,308491,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,,1,1
+UF,308492,Lasiurus minor,NA,Haiti,Trou Jean Paul,1,1,1,1,1
+AMNH,4909,Lasiurus pfeifferi,M,Cuba,Trinidad,1,1,1,1,
+AMNH,142270,Lasiurus seminolus,M,Bermuda,Smiths Parish,1,,,,
+AMNH,131622,Lasiurus seminolus,M,USA,Florida,1,1,1,1,
+AMNH,131624,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131626,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131627,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131628,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,131630,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,131631,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,131632,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131633,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131634,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131636,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131637,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131666,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131667,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,131667,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131670,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131672,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131673,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131674,Lasiurus seminolus,F,USA,Florida,1,,1,,
+AMNH,131675,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131676,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,131677,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,131679,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131680,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131681,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,131684,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,131888,Lasiurus seminolus,f,USA,Florida,,,1,,
+AMNH,163888,Lasiurus seminolus,M,USA,Florida,1,1,,1,
+AMNH,163889,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163890,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163891,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163893,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163894,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163895,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163896,Lasiurus seminolus,M,USA,Florida,1,1,1,1,
+AMNH,163897,Lasiurus seminolus,M,USA,Florida,1,1,1,1,
+AMNH,163898,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163900,Lasiurus seminolus,M,USA,Florida,1,1,1,1,
+AMNH,163901,Lasiurus seminolus,M,USA,Florida,1,1,1,1,
+AMNH,163902,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163903,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163904,Lasiurus seminolus,M,USA,Florida,1,,1,1,
+AMNH,163905,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163906,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,163978,Lasiurus seminolus,M,USA,Florida,1,,1,1,
+AMNH,163979,Lasiurus seminolus,M,USA,Florida,1,1,1,1,
+AMNH,167683,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,167684,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,167688,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,167689,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,167692,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,167693,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,167694,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,215325,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,215326,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,215328,Lasiurus seminolus,F,USA,Florida,1,1,1,1,
+AMNH,219325,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,219326,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,219332,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,219333,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,219334,Lasiurus seminolus,M,USA,Florida,1,,,,
+AMNH,219946,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,219948,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,219949,Lasiurus seminolus,F,USA,Florida,1,,,,
+AMNH,219951,Lasiurus seminolus,F,USA,Florida,1,1,,1,
+AMNH,23076,Lasiurus seminolus,M,USA,Georgia,1,1,1,,
+AMNH,129461,Lasiurus seminolus,M,USA,South Caronlina,1,,,,
+AMNH,129462,Lasiurus seminolus,NA,USA,South Caronlina,1,1,1,1,
