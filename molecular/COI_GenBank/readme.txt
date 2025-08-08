@@ -1,1 +1,1 @@
-*.fasta files including raw COI sequences downloaded from GenBank and used in IQTREE analysis of red bats.
+*.fasta files including raw COI sequences downloaded from GenBank. Alignment files used in IQTREE analysis (redbats_al.fasta) and species delimitation (redbat_spdelim.fasta) analysis of red bats included.
